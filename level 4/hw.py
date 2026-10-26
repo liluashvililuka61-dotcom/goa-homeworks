@@ -1,0 +1,6 @@
+my_mother_is= ("monika")
+my_father_is=("goga")
+my_grandma_is=("nino")
+my_grandpa_is=("gia")
+i_am=("luka")
+print(my_mother_is"+"my_father_is"+"my_grandma_is"+"my_grandpa_is"+"i_am)
