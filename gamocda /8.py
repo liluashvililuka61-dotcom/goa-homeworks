@@ -1,6 +1,6 @@
 # +,-,*,/,%,//,**
 # + ამატებს მაგალითად
-name=("luka")
+name
 surname = ("liluashvili")
 
 print (name+surname)
